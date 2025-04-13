@@ -24,7 +24,7 @@
 2. **Клонируйте репозиторий:**  
    Скопируйте проект в папку `OSPanel/domains`:
    ```bash
-   git clone https://github.com/yourusername/minions.git C:\OpenServer\domains\minions
+   git clone [https://github.com/yourusername/minions.git C:\OpenServer\domains\minions](https://github.com/AnastasiaShemelina/minions.git)
 
 3. **Настройте домен:**  
    В OpenServer → Настройки → Домены → добавить:  
